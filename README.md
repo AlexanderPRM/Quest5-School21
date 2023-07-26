@@ -7,7 +7,7 @@
 
   - git branch develop
 3.
-  - <img width="1450" alt="Снимок экрана 2023-07-26 в 10 22 28 AM" src="https://github.com/AlexanderPRM/Quest5-School21/assets/105987589/e2a6b2fa-a384-4e4b-891d-2ddaaf7fa95d">
+  - <img width="1900" alt="Снимок экрана 2023-07-26 в 11 03 33 AM" src="https://github.com/AlexanderPRM/Quest5-School21/assets/105987589/4868ff50-8b9a-405e-86e3-ff64a330a617">
 4.
   - <img width="1432" alt="Снимок экрана 2023-07-26 в 11 09 31 AM" src="https://github.com/AlexanderPRM/Quest5-School21/assets/105987589/ca427e11-6f27-4fd3-a11c-0b52db87e7fd">
 5.  
